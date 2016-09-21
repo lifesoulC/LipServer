@@ -1,0 +1,133 @@
+{
+"netmaps":[
+		{
+	  "netid": "1",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "sh06vm",
+	     "addrip":["61.172.243.105","10.128.0.136"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "hzphy03",
+         "addrip":["183.129.179.162","60.12.234.178"]
+    	}, 		{
+         "addrid": "3",
+      	 "addrname": "gz02vm",
+         "addrip":["183.60.189.19","203.78.190.3"]
+    	}, 		{
+         "addrid": "4",
+      	 "addrname": "cd02phy",
+         "addrip":["222.211.90.67","124.161.115.10"]
+    	}
+	]
+},		{
+	  "netid": "7",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "mexico",
+	     "addrip":["169.57.24.3","10.130.199.179"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "saopaulo",
+         "addrip":["169.57.132.37","10.150.182.15"]
+    	}
+	]
+	},		{
+	  "netid": "2",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "amsterdam",
+	     "addrip":["159.8.57.6","10.105.79.66"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "london",
+         "addrip":["159.122.229.243","10.112.42.132"]
+    	}, 		{
+         "addrid": "3",
+      	 "addrname": "paris",
+         "addrip":["159.8.91.69","10.127.164.142"]
+    	}, 		{
+         "addrid": "4",
+      	 "addrname": "frankfurt",
+         "addrip":["169.50.10.148","10.134.232.73"]
+    	}, 		{
+         "addrid": "5",
+      	 "addrname": "milan",
+         "addrip":["159.122.190.99","10.144.24.231"]
+    	}
+	]
+	},		{
+	  "netid": "3",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "us03vm",
+	     "addrip":["198.148.124.38","10.128.0.134"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "washington",
+         "addrip":["169.55.77.179","10.149.138.131"]
+    	},	{
+         "addrid": "4",
+      	 "addrname": "dallas",
+         "addrip":["173.193.142.216","10.36.174.2"]
+    	}, 		{
+         "addrid": "5",
+      	 "addrname": "houston",
+         "addrip":["184.173.41.164","10.77.162.20"]
+    	}, 		{
+         "addrid": "6",
+      	 "addrname": "montreal",
+         "addrip":["169.54.73.130","10.140.134.196"]
+    	}, 		{
+         "addrid": "7",
+      	 "addrname": "seattle",
+         "addrip":["173.192.137.136","10.28.55.5"]
+    	}, 		{
+         "addrid": "8",
+      	 "addrname": "toronto",
+         "addrip":["158.85.97.226","10.114.241.147"]
+    	}
+	]
+	},		{
+	  "netid": "4",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "hongkong",
+	     "addrip":["119.81.234.186","10.111.87.94"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "tokyo",
+         "addrip":["161.202.152.102","10.133.25.12"]
+    	}
+	]
+	},		{
+	  "netid": "5",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "melbourne",
+	     "addrip":["168.1.128.24","10.118.164.133"]
+    	}, 		{
+         "addrid": "2",
+      	 "addrname": "sydney",
+         "addrip":["168.1.46.118","10.138.129.196"]
+    	}
+	]
+	},		{
+	  "netid": "6",
+  	  "addrs": [
+		{
+         "addrid": "1",
+      	 "addrname": "singapore",
+	     "addrip":["161.202.177.26","10.117.221.106"]
+    	}
+	]
+	}
+]
+
+}
